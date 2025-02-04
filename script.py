@@ -11,8 +11,8 @@ import json
 # Configuration dictionary
 CONFIG = {
     'company': {
-        'name': 'Microsoft',
-        'ticker': 'MSFT',
+        'name': 'Nvidia',
+        'ticker': 'NVDA',
         'keywords': [
             'AI', 'artificial intelligence',
             'technology',
