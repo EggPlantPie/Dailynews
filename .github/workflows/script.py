@@ -31,7 +31,7 @@ CONFIG = {
             'bloomberg.com'
         ],
         'news_settings': {
-            'from_date': '2025-02-02',  # Format: YYYY-MM-DD
+            'from_date': '2025-01-30',  # Format: YYYY-MM-DD
             'max_days_old': 3  # Alternative: maximum age of news in days
         }
     },
